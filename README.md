@@ -14,5 +14,5 @@ Simple tool to obfuscate python scripts using AES
 `$ python3 obfus.py -h`
 
 **Author:**
-- **Zerosaturnn**
-- **Discord: zerosaturn_**
+- **VesperaIX**
+- **Discord: VesperaIX**
