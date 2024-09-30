@@ -7,7 +7,7 @@ Simple tool to obfuscate python scripts using AES
 <br>
 
 # Instalation
-`$ git clone https://github.com/ZeroSaturnn/PyZeroObfus && cd PyZeroObfus`<br>
+`$ git clone https://github.com/VesperaIX/PyZeroObfus && cd PyZeroObfus`<br>
 `$ sudo pip3 install pycryptodome `
 
 # Usage
